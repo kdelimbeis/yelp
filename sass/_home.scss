@@ -1,0 +1,14 @@
+.body-text {
+	margin: 30px;
+	padding: 20px;
+	color: white;
+
+	p {
+		font-size: 34px;
+
+		&:hover {
+			background-color: salmon;
+			}
+	}
+
+}
